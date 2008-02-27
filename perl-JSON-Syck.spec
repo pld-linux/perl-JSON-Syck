@@ -9,7 +9,7 @@ Summary:	JSON::Syck - JSON is YAML
 Summary(pl.UTF-8):	JSON::Syck - JSON to YAML
 Name:		perl-JSON-Syck
 Version:	0.07
-Release:	1
+Release:	2
 License:	BSD or D&R (see COPYING)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/M/MI/MIYAGAWA/%{pdir}-%{pnam}-%{version}.tar.gz
