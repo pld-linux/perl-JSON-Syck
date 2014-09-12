@@ -59,6 +59,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc COPYING Changes
 %{perl_vendorarch}/JSON/*.pm
 %dir %{perl_vendorarch}/auto/JSON/Syck
-%{perl_vendorarch}/auto/JSON/Syck/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/JSON/Syck/*.so
 %{_mandir}/man3/*
